@@ -73,7 +73,7 @@ Example:
 ## File Structure
 
 ```text
-project_2.py   # Main Python program
+project-2_Logic_box.py   # Main Python program
 README.md      # Project documentation
 ```
 
